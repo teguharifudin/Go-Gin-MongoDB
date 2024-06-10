@@ -21,7 +21,7 @@ go run main.go
 
 ## Postman
 
-POST http://localhost:6000/user
+> POST http://localhost:6000/user
 ```
 {
     "name": "Teguh",
@@ -30,9 +30,9 @@ POST http://localhost:6000/user
 }
 ```
 
-GET http://localhost:6000/users
+> GET http://localhost:6000/users
 
-PUT http://localhost:6000/user/6666a4e25c83ead7c00db79b
+> PUT http://localhost:6000/user/6666a4e25c83ead7c00db79b
 ```
 {
     "name": "Arief",
@@ -41,6 +41,6 @@ PUT http://localhost:6000/user/6666a4e25c83ead7c00db79b
 }
 ```
 
-GET http://localhost:6000/user/6666a4e25c83ead7c00db79b
+> GET http://localhost:6000/user/6666a4e25c83ead7c00db79b
 
-DELETE http://localhost:6000/user/6666a4e25c83ead7c00db79b
+> DELETE http://localhost:6000/user/6666a4e25c83ead7c00db79b
