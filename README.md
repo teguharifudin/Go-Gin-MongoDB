@@ -19,8 +19,8 @@ go run main.go
 
 ## Postman
 
-```
 POST http://localhost:6000/user
+```
 {
     "name": "Teguh",
     "location": "Bandung",
