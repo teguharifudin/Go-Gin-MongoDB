@@ -7,7 +7,9 @@ a CRUD API with Go's Gin library using MongoDB.
 ## Installation
 
 ```
-git clone https://github.com/teguharifudin/Go-Gin-MongoDB.git Go-Gin-MongoDB
+git clone https://github.com/teguharifudin/Go-Gin-MongoDB.git
+```
+```
 cd Go-Gin-MongoDB
 ```
 
